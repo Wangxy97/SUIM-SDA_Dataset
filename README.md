@@ -1,6 +1,6 @@
 # SUIM-SDA: Underwater Imagery Benchmark with Sparse Depth Annotation
     
-  ![SUIM-SDA_Dataset](./images/sample.png)
+ ![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 
 ## Overview
   SUIM-SDA is extended from Segmentation of Underwater IMagery (SUIM) dataset by adding Sparse Depth Annota- tions (SDA), i.e., 
