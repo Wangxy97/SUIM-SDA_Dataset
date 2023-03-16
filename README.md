@@ -1,6 +1,6 @@
 # SUIM-SDA: Underwater Imagery Benchmark with Sparse Depth Annotation
     
- ![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+ ![image](https://github.com/Wangxy97/SUIM-SDA_Dataset/blob/main/images/sample.png)
 
 ## Overview
   SUIM-SDA is extended from Segmentation of Underwater IMagery (SUIM) dataset by adding Sparse Depth Annota- tions (SDA), i.e., 
@@ -34,8 +34,13 @@ On extraction, the downloaded file results in the following directory
                 1596 ground-truth segmentation labels.
 
 ## Statistics of SUIM-SDA
-![SUIM-SDA_Dataset](./images/semantic.png)
-![SUIM-SDA_Dataset](./images/Distance.png)
+ <img src="./images/semantic.png" width="500" alt="">
+ The percentage of semantic labels of the pixels which are used to make depth-ranked samples.
+ 
+ <img src="./images/Distance.png" width="500" alt="">
+ The distribution of the distance between pixels of the depth-ranked samples from the SUIM-SDA dataset. 
+ The histogram shows the percentage of samples that fall within the specified range. 
+ The curve shows the cumulative distribution.
 
 
 ## Bibtex
