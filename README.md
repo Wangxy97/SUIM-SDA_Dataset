@@ -30,7 +30,7 @@ On extraction, the downloaded file results in the following directory
                        1596 Depth-Ranked Samples files.
             Raw/
                 1596 RGB images.
-            Segmentation_mask/
+            Mask/
                 1596 ground-truth segmentation labels.
 
 ## Statistics of SUIM-SDA
