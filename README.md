@@ -3,7 +3,7 @@
  <img src="./images/sample.png" width="1000" alt="">
 
 ## Overview
-  SUIM-SDA is extended from Segmentation of Underwater IMagery (SUIM) dataset by adding Sparse Depth Annota- tions (SDA), i.e., 
+  SUIM-SDA is extended from Segmentation of Underwater IMagery (SUIM) dataset by adding Sparse Depth Annotations (SDA), i.e., 
   depth trendlines and depth-ranked points.It features:
  
 - **1596** images with sparse depth annotation 
